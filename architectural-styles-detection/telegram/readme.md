@@ -33,7 +33,7 @@ ___
 :arrow_up: [к оглавлению](#оглавление)
 
 ### 2. Ссылка на код бота
-Посмотреть код бота можно тут
+Посмотреть код бота [можно тут](https://github.com/olegrasskazovpro/hackathones/blob/main/architectural-styles-detection/telegram/bot.py)
 
 :arrow_up: [к оглавлению](#оглавление)
 
