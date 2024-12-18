@@ -228,7 +228,8 @@ df = df[["Стиль", "Вероятность, %"]]
 # Вывод результата
 display(df)
 ```
-![top5_table.jpg](images/top5_table.jpg)
+<img src="images/top5_table.jpg" width="200px"/>
+
 
 :arrow_up: [к оглавлению](#оглавление)
 
