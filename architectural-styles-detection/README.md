@@ -2,7 +2,7 @@
 
 Модель предсказывает архитектурный стиль здания по фото.
 
-<img src="images/roman_building.jpg" max-width="900px"/>
+<img src="images/predict.jpg" max-width="500px"/>
 
 ___
 ***Попробуйте работу модели:***
